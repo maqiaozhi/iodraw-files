@@ -261,10 +261,7 @@
         <mxCell id="2E6fkov1W5cx_jILJNrq-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Traffic_Analysising&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1219.69" y="1477" width="178" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="2E6fkov1W5cx_jILJNrq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2E6fkov1W5cx_jILJNrq-10" target="2E6fkov1W5cx_jILJNrq-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2E6fkov1W5cx_jILJNrq-10" value="SERSOR_DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2E6fkov1W5cx_jILJNrq-10" value="SERSOR_Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="395" y="1450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2E6fkov1W5cx_jILJNrq-11" value="Agg_Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
