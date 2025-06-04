@@ -268,7 +268,10 @@
           <mxGeometry x="688" y="1497" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2E6fkov1W5cx_jILJNrq-12" value="Light_Command" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="344" y="1617" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="1625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2E6fkov1W5cx_jILJNrq-13" value="AGG_DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="698" y="1507" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
