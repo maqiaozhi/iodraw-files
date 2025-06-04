@@ -267,8 +267,8 @@
         <mxCell id="2E6fkov1W5cx_jILJNrq-11" value="AGG_DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="688" y="1497" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2E6fkov1W5cx_jILJNrq-12" value="SERSOR_Command" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="1614" width="60" height="30" as="geometry" />
+        <mxCell id="2E6fkov1W5cx_jILJNrq-12" value="Light_Command" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="344" y="1617" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
