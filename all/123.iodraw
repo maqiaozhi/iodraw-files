@@ -273,8 +273,8 @@
         <mxCell id="2E6fkov1W5cx_jILJNrq-13" value="Traffic_Condition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1081" y="1527" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2E6fkov1W5cx_jILJNrq-14" value="AGG_DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="698" y="1507" width="60" height="30" as="geometry" />
+        <mxCell id="2E6fkov1W5cx_jILJNrq-14" value="Traffic_Introduction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="688" y="1625" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
