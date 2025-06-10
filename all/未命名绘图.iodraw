@@ -7,8 +7,8 @@
         <mxCell id="drezCDw-w2Av-JKF0TFz-46" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="363" y="1973" width="1450" height="856" as="geometry" />
         </mxCell>
-        <mxCell id="PTwZEZWbJMRDXqX4v193-14" value="" style="shape=mxgraph.signs.transportation.highway;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="745" y="622" width="352" height="853" as="geometry" />
+        <mxCell id="PTwZEZWbJMRDXqX4v193-14" value="" style="shape=mxgraph.signs.transportation.highway;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="895" y="910" width="246" height="298" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-7" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="2244" y="39" width="99" height="88" as="geometry" />
