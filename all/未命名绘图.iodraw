@@ -252,6 +252,9 @@
         <mxCell id="Xlyki_ond-_9PgFhZqVr-1" value="" style="shape=mxgraph.signs.transportation.car_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="871" y="930" width="291" height="118" as="geometry" />
         </mxCell>
+        <mxCell id="Xlyki_ond-_9PgFhZqVr-2" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="484" y="953" width="99" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
