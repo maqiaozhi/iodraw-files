@@ -11,7 +11,7 @@
           <mxGeometry x="2507" y="387.5" width="246" height="298" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-7" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="526.5" width="99" height="88" as="geometry" />
+          <mxGeometry x="2244" y="39" width="99" height="88" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" parent="1" vertex="1">
           <mxGeometry x="941" y="167" width="164" height="107" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="858" y="575" width="99" height="89" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-8" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2632" y="528.5" width="98" height="86" as="geometry" />
+          <mxGeometry x="2931" y="332" width="98" height="86" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-11" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;direction=east;rotation=25;" parent="1" vertex="1">
           <mxGeometry x="2292" y="279.5" width="98" height="40" as="geometry" />
