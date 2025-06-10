@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mOpZwotoYpCKyjan-j-i">
-    <mxGraphModel dx="1538" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="1000000" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="1000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-8" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1039" y="1076" width="98" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="PTwZEZWbJMRDXqX4v193-10" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;direction=west;rotation=-30;" parent="1" vertex="1">
-          <mxGeometry x="1239" y="817" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PTwZEZWbJMRDXqX4v193-11" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;direction=east;rotation=25;" parent="1" vertex="1">
           <mxGeometry x="699" y="827" width="98" height="40" as="geometry" />
