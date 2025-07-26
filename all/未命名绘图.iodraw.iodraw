@@ -1416,11 +1416,14 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Schema:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;stadium(&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Stadium_ID,&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Location,Name,Capacity,Highest,Lowest,Average&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;singer (Singer_ID,Name,Country,Song_Name,Song_release_year,Age,Is_male bool)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;concert (concert_ID,concert_Name,Theme,Stadium_ID,Year)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;singer_in_concert (concert_ID,Singer_ID)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="3033" y="1962" width="724" height="134" as="geometry" />
         </mxCell>
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-26" target="uw6TEdjqAYuRTfkuM3nc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2763" y="738" width="235.79" height="224" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3187" y="582" width="430" height="661" as="geometry" />
+          <mxGeometry x="3154" y="541" width="430" height="661" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-22" target="uw6TEdjqAYuRTfkuM3nc-26">
           <mxGeometry relative="1" as="geometry" />
