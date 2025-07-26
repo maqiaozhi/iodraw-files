@@ -1397,7 +1397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Question:How many singers do we have?Schema:Singers()&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="936.61" y="875" width="405" height="73" as="geometry" />
+          <mxGeometry x="1077" y="879.5" width="405" height="73" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-12" target="uw6TEdjqAYuRTfkuM3nc-19">
           <mxGeometry relative="1" as="geometry">
@@ -1405,7 +1405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Schema:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;stadium(&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Stadium_ID,&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Location,Name,Capacity,Highest,Lowest,Average&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;singer(&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Singer_ID,Name,&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Country,&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Song_Name,&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="932" y="1187" width="684" height="209" as="geometry" />
+          <mxGeometry x="934" y="1187" width="684" height="209" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
           <mxGeometry x="1238" y="1030" width="83" height="89" as="geometry" />
