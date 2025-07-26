@@ -1440,8 +1440,8 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-33" target="uw6TEdjqAYuRTfkuM3nc-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1999" y="2624" />
-              <mxPoint x="2434" y="2624" />
+              <mxPoint x="1999" y="2521" />
+              <mxPoint x="2434" y="2521" />
               <mxPoint x="2434" y="1825" />
               <mxPoint x="2981" y="1825" />
             </Array>
@@ -1451,7 +1451,7 @@
           <mxGeometry x="1633" y="2392" width="732" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-34" value="&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 37px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;Question:How many singers do we have?Schema:Singers()&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2592" y="1889" width="778" height="88" as="geometry" />
+          <mxGeometry x="2513" y="1892" width="778" height="88" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-31" target="uw6TEdjqAYuRTfkuM3nc-32">
           <mxGeometry relative="1" as="geometry" />
