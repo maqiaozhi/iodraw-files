@@ -1365,7 +1365,10 @@
           <mxGeometry x="10250" y="6935" width="142" height="228.5" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="437" y="922" width="116.84" height="111" as="geometry" />
+          <mxGeometry x="481" y="1015" width="116.84" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="892" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
