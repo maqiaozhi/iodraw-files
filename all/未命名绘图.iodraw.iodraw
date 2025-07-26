@@ -1391,7 +1391,7 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Pseudo-Schema:&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Singers()&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="346.39" y="1410" width="405" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TEdjqAYuRTfkuM3nc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" target="uw6TEdjqAYuRTfkuM3nc-14">
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;exitX=0.45;exitY=0.816;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-19" target="uw6TEdjqAYuRTfkuM3nc-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1136.5" y="1127.7657479526215" as="sourcePoint" />
           </mxGeometry>
@@ -1399,7 +1399,7 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Question:How many singers do we have?Schema:Singers()&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="936.61" y="875" width="405" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TEdjqAYuRTfkuM3nc-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-12">
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-12" target="uw6TEdjqAYuRTfkuM3nc-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1138.83679999999" y="1019.3343504695779" as="targetPoint" />
           </mxGeometry>
@@ -1420,7 +1420,7 @@
           <mxGeometry x="934" y="1412" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
-          <mxGeometry x="1104" y="1030" width="83" height="89" as="geometry" />
+          <mxGeometry x="1097.61" y="1030" width="83" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
