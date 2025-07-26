@@ -1364,6 +1364,9 @@
         <mxCell id="Tnzy-cWrNBio2xvPLpMB-22" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#1b3ff3;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="10250" y="6935" width="142" height="228.5" as="geometry" />
         </mxCell>
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-1" target="uw6TEdjqAYuRTfkuM3nc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490.46999999999997" y="1015" width="116.84" height="111" as="geometry" />
         </mxCell>
@@ -1374,7 +1377,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-4" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Question：How many singers do we have?&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="359" y="896" width="405" height="60" as="geometry" />
+          <mxGeometry x="346.39" y="1195" width="405" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
