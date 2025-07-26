@@ -1388,7 +1388,7 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-4" target="uw6TEdjqAYuRTfkuM3nc-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TEdjqAYuRTfkuM3nc-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Pseudo-SQL:&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;SELECT count(*) FROM Singers&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Pseudo-Schema:&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Singers()&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="346.39" y="1410" width="405" height="60" as="geometry" />
         </mxCell>
       </root>
