@@ -249,7 +249,7 @@
         <mxCell id="aCTo3xuXMpMd0VcFwcCd-6" value="B（初衷）&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 22px;&quot;&gt;统计全班学生中佩戴手表的人数。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="836" y="3003" width="223" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Xlyki_ond-_9PgFhZqVr-2" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="Xlyki_ond-_9PgFhZqVr-2" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="874" y="872" width="275" height="104" as="geometry" />
         </mxCell>
       </root>
