@@ -1364,7 +1364,7 @@
         <mxCell id="Tnzy-cWrNBio2xvPLpMB-22" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#1b3ff3;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="10250" y="6935" width="142" height="228.5" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TEdjqAYuRTfkuM3nc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-1" target="uw6TEdjqAYuRTfkuM3nc-4">
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="uw6TEdjqAYuRTfkuM3nc-1" target="uw6TEdjqAYuRTfkuM3nc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
