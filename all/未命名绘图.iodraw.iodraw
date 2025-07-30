@@ -1367,7 +1367,7 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490.46999999999997" y="1015" width="116.84" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="uw6TEdjqAYuRTfkuM3nc-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Question：How many singers do we have?&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="uw6TEdjqAYuRTfkuM3nc-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Question：How many singers do we have?&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;Write a SQL query to answer the question. Return only the SQL query without any markdown formatting or explanations.\nQuestion: {question}&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="349" y="886" width="405" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" parent="1" source="uw6TEdjqAYuRTfkuM3nc-2" target="uw6TEdjqAYuRTfkuM3nc-1" edge="1">
@@ -1579,7 +1579,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-58" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10508" y="3450" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="10464.16" y="3450" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-47" target="_7alN-b1mqEesrGTo127-58">
           <mxGeometry relative="1" as="geometry" />
