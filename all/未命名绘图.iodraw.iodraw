@@ -1666,7 +1666,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-90" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11247" y="4389.5" width="167" height="166" as="geometry" />
+          <mxGeometry x="11242.99" y="4389.5" width="167" height="166" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-51" target="_7alN-b1mqEesrGTo127-90">
           <mxGeometry relative="1" as="geometry" />
@@ -1683,10 +1683,10 @@
           <mxGeometry x="11265" y="4613" width="263" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-95" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="11201" y="4071" width="255" height="118" as="geometry" />
+          <mxGeometry x="11198.99" y="4111" width="255" height="118" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-98" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10853.15" y="3747" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="10834" y="4026" width="213.68" height="203" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
