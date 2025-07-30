@@ -1465,6 +1465,9 @@
         <mxCell id="uw6TEdjqAYuRTfkuM3nc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" parent="1" source="uw6TEdjqAYuRTfkuM3nc-34" target="uw6TEdjqAYuRTfkuM3nc-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="2731" width="116.84" height="111" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
