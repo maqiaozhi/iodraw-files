@@ -1660,7 +1660,7 @@
           <mxGeometry x="12574" y="3788.16" width="167" height="166" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-90" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11144" y="4391.5" width="167" height="166" as="geometry" />
+          <mxGeometry x="11265" y="4388" width="167" height="166" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-51" target="_7alN-b1mqEesrGTo127-90">
           <mxGeometry relative="1" as="geometry" />
@@ -1674,7 +1674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-94" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 36px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;M-Schema&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="11194" y="4601" width="263" height="90" as="geometry" />
+          <mxGeometry x="11141" y="4598" width="263" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
