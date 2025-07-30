@@ -1573,10 +1573,10 @@
           <mxGeometry x="9773" y="4134" width="88" height="98" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-51" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="10505" y="4148" width="171" height="150" as="geometry" />
+          <mxGeometry x="10505" y="3828" width="651" height="470" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10520" y="3913" width="311" height="196" as="geometry" />
+          <mxGeometry x="9978" y="3794" width="311" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
