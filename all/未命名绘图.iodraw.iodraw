@@ -1522,6 +1522,9 @@
         <mxCell id="_7alN-b1mqEesrGTo127-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="_7alN-b1mqEesrGTo127-2" source="_7alN-b1mqEesrGTo127-18" target="_7alN-b1mqEesrGTo127-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-20" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="_7alN-b1mqEesrGTo127-2">
+          <mxGeometry x="113.99557112900584" y="169.9981986178882" width="23.929522968103846" height="23.929522968103846" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
