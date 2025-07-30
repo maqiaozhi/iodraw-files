@@ -1590,8 +1590,8 @@
         <mxCell id="_7alN-b1mqEesrGTo127-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-58" target="_7alN-b1mqEesrGTo127-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-62" value="&lt;b style=&quot;font-size: 36px;&quot;&gt;Train Data&amp;nbsp;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="11066.99" y="4021" width="144" height="184" as="geometry" />
+        <mxCell id="_7alN-b1mqEesrGTo127-62" value="&lt;b style=&quot;font-size: 36px;&quot;&gt;Train Data&amp;nbsp;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="11260" y="3433" width="144" height="184" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-63" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11560.99" y="3742" width="213.68" height="203" as="geometry" />
