@@ -1575,11 +1575,11 @@
         <mxCell id="_7alN-b1mqEesrGTo127-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="_7alN-b1mqEesrGTo127-2" source="_7alN-b1mqEesrGTo127-15" target="_7alN-b1mqEesrGTo127-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-49" target="_7alN-b1mqEesrGTo127-51">
+        <mxCell id="_7alN-b1mqEesrGTo127-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-49" target="_7alN-b1mqEesrGTo127-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-58" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10605" y="3450" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="10508" y="3450" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-47" target="_7alN-b1mqEesrGTo127-58">
           <mxGeometry relative="1" as="geometry" />
