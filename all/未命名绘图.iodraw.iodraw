@@ -1611,6 +1611,9 @@
         <mxCell id="_7alN-b1mqEesrGTo127-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-66" target="_7alN-b1mqEesrGTo127-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5004.310638297872" y="1664.7988505747126" width="174.5489361702128" height="101.97235632183907" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
