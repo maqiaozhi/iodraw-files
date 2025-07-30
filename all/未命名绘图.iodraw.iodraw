@@ -1585,7 +1585,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-60" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10171" y="3509" width="186.99" height="137.69" as="geometry" />
+          <mxGeometry x="10881" y="3507.31" width="186.99" height="137.69" as="geometry" />
+        </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-58" target="_7alN-b1mqEesrGTo127-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
