@@ -1560,6 +1560,15 @@
         <mxCell id="_7alN-b1mqEesrGTo127-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="_7alN-b1mqEesrGTo127-2" source="_7alN-b1mqEesrGTo127-15" target="_7alN-b1mqEesrGTo127-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="6985.5" y="4092" width="208" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-47" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7433.5" y="4115" width="186.99" height="137.69" as="geometry" />
+        </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-46" target="_7alN-b1mqEesrGTo127-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
