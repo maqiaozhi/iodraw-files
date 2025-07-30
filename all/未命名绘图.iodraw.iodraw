@@ -1477,7 +1477,7 @@
         <mxCell id="_7alN-b1mqEesrGTo127-4" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="_7alN-b1mqEesrGTo127-2">
           <mxGeometry x="37.32863700845407" y="49.645558290831545" width="390.52089277210985" height="207.30785670583717" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_7alN-b1mqEesrGTo127-4" source="_7alN-b1mqEesrGTo127-6" target="_7alN-b1mqEesrGTo127-27">
+        <mxCell id="_7alN-b1mqEesrGTo127-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="_7alN-b1mqEesrGTo127-4" source="_7alN-b1mqEesrGTo127-6" target="_7alN-b1mqEesrGTo127-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-6" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="_7alN-b1mqEesrGTo127-4">
@@ -1493,7 +1493,7 @@
           <mxGeometry x="289.5459418936968" y="156.22665699398533" width="28.978871851281724" height="28.978871851281724" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-28" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rotation=8;fillColor=#a20025;strokeColor=#6F0000;rounded=0;fontColor=#ffffff;" vertex="1" parent="_7alN-b1mqEesrGTo127-4">
-          <mxGeometry x="16.702027684581545" y="169.9250973609578" width="28.978871851281724" height="28.978871851281724" as="geometry" />
+          <mxGeometry x="11.052027684581544" y="145.5050973609578" width="28.978871851281724" height="28.978871851281724" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-27" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rotation=8;fillColor=#a20025;strokeColor=#6F0000;rounded=0;fontColor=#ffffff;" vertex="1" parent="_7alN-b1mqEesrGTo127-4">
           <mxGeometry x="184.53881052640457" y="156.22858359948992" width="28.978871851281724" height="28.978871851281724" as="geometry" />
