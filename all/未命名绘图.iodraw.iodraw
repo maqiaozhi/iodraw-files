@@ -1618,7 +1618,7 @@
           <mxGeometry x="11926" y="3802.31" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-72" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SQL3&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11935" y="4030" width="186.99" height="137.69" as="geometry" />
+          <mxGeometry x="11926" y="4030" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.985;exitY=0.614;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-63" target="_7alN-b1mqEesrGTo127-70">
           <mxGeometry relative="1" as="geometry" />
@@ -1628,6 +1628,9 @@
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.992;exitY=0.614;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-63" target="_7alN-b1mqEesrGTo127-72">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7alN-b1mqEesrGTo127-76" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11005.99" y="4401.5" width="167" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
