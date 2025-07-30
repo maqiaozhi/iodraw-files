@@ -1560,19 +1560,6 @@
         <mxCell id="_7alN-b1mqEesrGTo127-8" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="_7alN-b1mqEesrGTo127-2">
           <mxGeometry x="82.2291796740329" y="133.772087428023" width="25.941784845033858" height="25.941784845033858" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="_7alN-b1mqEesrGTo127-2" target="_7alN-b1mqEesrGTo127-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="252.31692812396795" y="213.57893467236954" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.712;entryY=0.159;entryDx=0;entryDy=0;endArrow=classic;endFill=1;entryPerimeter=0;strokeWidth=3;" edge="1" parent="_7alN-b1mqEesrGTo127-2" source="_7alN-b1mqEesrGTo127-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="244.85983254248276" y="204.12733024728823" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-29" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rotation=8;fillColor=#a20025;strokeColor=#6F0000;rounded=0;fontColor=#ffffff;" vertex="1" parent="_7alN-b1mqEesrGTo127-2">
-          <mxGeometry x="298.1045356984314" y="195.45655934983353" width="25.941784845033858" height="25.941784845033858" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
