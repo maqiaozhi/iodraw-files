@@ -1697,7 +1697,7 @@
         <mxCell id="_7alN-b1mqEesrGTo127-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.011;exitY=0.627;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;" parent="1" source="_7alN-b1mqEesrGTo127-98" target="_7alN-b1mqEesrGTo127-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxIO32yoc5LJkIX2057u-2" value="&lt;b style=&quot;font-size: 36px;&quot;&gt;SQlite&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="ZxIO32yoc5LJkIX2057u-2" value="&lt;b style=&quot;font-size: 36px;&quot;&gt;SQlite&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="10539.99" y="4436" width="144" height="184" as="geometry" />
         </mxCell>
       </root>
