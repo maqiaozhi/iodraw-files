@@ -1960,8 +1960,8 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-148" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
           <mxGeometry x="12205" y="3772.15" width="178" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-149" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text*&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12538" y="3634.46" width="186.99" height="137.69" as="geometry" />
+        <mxCell id="twDhx3xl-G9JTQc75g7c-149" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;keyword&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12538" y="3628" width="216" height="144.15" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-150" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text*&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="12541" y="3799.31" width="186.99" height="137.69" as="geometry" />
