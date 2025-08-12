@@ -1602,7 +1602,7 @@
         <mxCell id="_7alN-b1mqEesrGTo127-72" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SQL3&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="11958" y="3807.31" width="186.99" height="137.69" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.992;exitY=0.614;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_7alN-b1mqEesrGTo127-63" target="_7alN-b1mqEesrGTo127-72" edge="1">
+        <mxCell id="_7alN-b1mqEesrGTo127-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.956;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_7alN-b1mqEesrGTo127-63" target="_7alN-b1mqEesrGTo127-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="_7alN-b1mqEesrGTo127-90" target="_7alN-b1mqEesrGTo127-95" edge="1">
