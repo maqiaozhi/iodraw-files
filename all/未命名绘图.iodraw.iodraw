@@ -1593,10 +1593,12 @@
           <mxGeometry x="11165" y="3792.31" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-63" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="11560.99" y="3742" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="11500" y="3729" width="213.68" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="_7alN-b1mqEesrGTo127-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.109;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" parent="1" source="_7alN-b1mqEesrGTo127-60" target="_7alN-b1mqEesrGTo127-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_7alN-b1mqEesrGTo127-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="_7alN-b1mqEesrGTo127-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11497" y="3859" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-72" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SQL3&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="11958" y="3807.31" width="186.99" height="137.69" as="geometry" />
