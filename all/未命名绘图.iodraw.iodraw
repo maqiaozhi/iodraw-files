@@ -1554,7 +1554,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-5" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="12421" y="3745" width="376" height="246" as="geometry" />
+          <mxGeometry x="10689" y="4817" width="376" height="246" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-6" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="twDhx3xl-G9JTQc75g7c-5">
           <mxGeometry x="30.645343919604215" y="46.26063386191121" width="320.60230498321675" height="193.17323011225736" as="geometry" />
@@ -1955,7 +1955,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-141" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
-          <mxGeometry x="12043" y="4015" width="50" height="50" as="geometry" />
+          <mxGeometry x="12243" y="4087.84" width="166" height="173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
