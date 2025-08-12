@@ -2008,6 +2008,9 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.985;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="twDhx3xl-G9JTQc75g7c-185" target="_7alN-b1mqEesrGTo127-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-188" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="12416.995343919603" y="3567.5806338619113" width="184.65" height="183" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
