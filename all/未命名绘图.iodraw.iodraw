@@ -1483,7 +1483,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="11940" y="4807" width="167" height="166" as="geometry" />
+          <mxGeometry x="11940" y="4767" width="186" height="206" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-58" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10823" y="3727" width="213.68" height="203" as="geometry" />
@@ -1956,6 +1956,9 @@
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-141" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
           <mxGeometry x="12243" y="4087.84" width="166" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-142" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 36px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;M-Schema&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11936.67" y="5011" width="263" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
