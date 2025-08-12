@@ -1475,7 +1475,12 @@
           <mxGeometry x="10539.99" y="3786" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" parent="1" source="_7alN-b1mqEesrGTo127-46" target="_7alN-b1mqEesrGTo127-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10456" y="3847" />
+              <mxPoint x="10548" y="3847" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="11685" y="4747" width="167" height="166" as="geometry" />
