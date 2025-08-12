@@ -1963,7 +1963,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-160" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="12935" y="3276" width="186" height="277" as="geometry" />
+          <mxGeometry x="12929" y="3223" width="186" height="277" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="twDhx3xl-G9JTQc75g7c-160" vertex="1">
           <mxGeometry y="71" width="186" height="206" as="geometry" />
