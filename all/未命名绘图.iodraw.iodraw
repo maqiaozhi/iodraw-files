@@ -1483,7 +1483,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="11685" y="4747" width="167" height="166" as="geometry" />
+          <mxGeometry x="11940" y="4807" width="167" height="166" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-58" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10823" y="3727" width="213.68" height="203" as="geometry" />
