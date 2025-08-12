@@ -1722,12 +1722,7 @@
           <mxGeometry x="12241" y="4153" width="166" height="173" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="11922" y="4844" width="186" height="297" as="geometry" />
-        </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="twDhx3xl-G9JTQc75g7c-143" source="_7alN-b1mqEesrGTo127-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="93" y="-218.77791341145803" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="12943" y="3148" width="186" height="297" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="twDhx3xl-G9JTQc75g7c-143" vertex="1">
           <mxGeometry width="186" height="206" as="geometry" />
