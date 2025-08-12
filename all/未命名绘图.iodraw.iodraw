@@ -1471,6 +1471,9 @@
         <mxCell id="_7alN-b1mqEesrGTo127-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="577" y="2731" width="116.84" height="111" as="geometry" />
         </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-46" target="_7alN-b1mqEesrGTo127-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" parent="1" vertex="1">
           <mxGeometry x="10720" y="3416" width="208" height="171" as="geometry" />
         </mxCell>
@@ -1481,7 +1484,7 @@
           <mxGeometry x="11095.67" y="3661" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-60" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text*&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="11095.67" y="3942" width="186.99" height="137.69" as="geometry" />
+          <mxGeometry x="11101" y="3963.46" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.987;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="_7alN-b1mqEesrGTo127-63" target="_7alN-b1mqEesrGTo127-72">
           <mxGeometry relative="1" as="geometry">
