@@ -1518,7 +1518,7 @@
           <mxGeometry x="11265" y="4613" width="263" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-95" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Prompt&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="11198.99" y="4111" width="255" height="118" as="geometry" />
+          <mxGeometry x="11131" y="4105" width="255" height="118" as="geometry" />
         </mxCell>
         <mxCell id="_7alN-b1mqEesrGTo127-98" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10843.15" y="4046" width="213.68" height="203" as="geometry" />
