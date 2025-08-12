@@ -1969,7 +1969,7 @@
           <mxGeometry x="25.469999999999345" y="232" width="154.53" height="65" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-146" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sitewise_asset_model;" vertex="1" parent="1">
-          <mxGeometry x="12174" y="3850" width="78" height="78" as="geometry" />
+          <mxGeometry x="12206" y="3757" width="173" height="173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
