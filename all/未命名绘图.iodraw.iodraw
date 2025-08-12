@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="twDhx3xl-G9JTQc75g7c-161" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="12514" y="3358" width="267" height="818" as="geometry" />
+        </mxCell>
         <mxCell id="wOcOAiQM5ah7GnFTG13f-115" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=3;strokeColor=#1b649d;" parent="1" vertex="1">
           <mxGeometry x="4776" y="952" width="1625" height="957" as="geometry" />
         </mxCell>
@@ -1970,9 +1973,6 @@
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-142" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 36px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Schema&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="twDhx3xl-G9JTQc75g7c-160">
           <mxGeometry x="15.739999999999782" width="154.53" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12514" y="3358" width="183" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
