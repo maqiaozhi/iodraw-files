@@ -1969,6 +1969,9 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-151" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text*&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="12462" y="3983" width="186.99" height="137.69" as="geometry" />
         </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-152" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="twDhx3xl-G9JTQc75g7c-148" target="twDhx3xl-G9JTQc75g7c-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
