@@ -2062,15 +2062,18 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-218" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="13854" y="4218.89" width="213.68" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-221" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=6;" edge="1" parent="1">
+        <mxCell id="twDhx3xl-G9JTQc75g7c-221" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=6;" edge="1" parent="1" target="twDhx3xl-G9JTQc75g7c-222">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="13300" y="3428" as="sourcePoint" />
             <mxPoint x="13297" y="4367" as="targetPoint" />
             <Array as="points">
               <mxPoint x="13297" y="3428" />
-              <mxPoint x="13297" y="4354" />
+              <mxPoint x="13297" y="4359" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-222" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13455" y="4259" width="174" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
