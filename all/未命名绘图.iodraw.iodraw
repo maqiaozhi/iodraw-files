@@ -1922,7 +1922,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-208" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="13402" y="3302" width="161.12" height="189" as="geometry" />
+          <mxGeometry x="13601" y="3302" width="161.12" height="189" as="geometry" />
         </mxCell>
         <mxCell id="v9hCLtQf_T27C2Hb2mi1-97" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10766" y="2634" width="88" height="98" as="geometry" />
