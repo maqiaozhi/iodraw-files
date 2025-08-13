@@ -1622,7 +1622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-39" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="12592" y="3617.5" width="462" height="400.66" as="geometry" />
+          <mxGeometry x="12595" y="3621" width="462" height="400.66" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-40" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="twDhx3xl-G9JTQc75g7c-39">
           <mxGeometry x="27.00158322745221" y="37.50475482375731" width="424.60841677254774" height="350.7852451762427" as="geometry" />
@@ -2032,7 +2032,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-210" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12655" y="3310" width="174" height="200" as="geometry" />
+          <mxGeometry x="12657.84" y="3310" width="174" height="200" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-211" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 36px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(205, 229, 199);&quot;&gt;Prune-Schema&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="12583" y="3245" width="297.26" height="65" as="geometry" />
