@@ -1726,7 +1726,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-141" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
-          <mxGeometry x="12361" y="4075.9999999999995" width="166" height="173" as="geometry" />
+          <mxGeometry x="12663" y="4077.9999999999995" width="166" height="173" as="geometry" />
         </mxCell>
         <mxCell id="twDhx3xl-G9JTQc75g7c-148" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
           <mxGeometry x="13496" y="4405.15" width="178" height="178" as="geometry" />
