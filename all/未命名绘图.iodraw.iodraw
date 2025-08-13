@@ -2065,11 +2065,10 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-221" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="13300" y="3428" as="sourcePoint" />
-            <mxPoint x="13300" y="4354" as="targetPoint" />
+            <mxPoint x="13297" y="4367" as="targetPoint" />
             <Array as="points">
               <mxPoint x="13297" y="3428" />
-              <mxPoint x="13297" y="4345" />
-              <mxPoint x="13300" y="4345" />
+              <mxPoint x="13297" y="4354" />
             </Array>
           </mxGeometry>
         </mxCell>
