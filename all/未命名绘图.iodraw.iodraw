@@ -2084,8 +2084,12 @@
             <mxPoint x="13854" y="3960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="twDhx3xl-G9JTQc75g7c-216" target="twDhx3xl-G9JTQc75g7c-218">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="twDhx3xl-G9JTQc75g7c-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="twDhx3xl-G9JTQc75g7c-216" target="twDhx3xl-G9JTQc75g7c-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14082" y="4381" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
