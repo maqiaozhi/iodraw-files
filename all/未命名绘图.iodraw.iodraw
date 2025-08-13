@@ -2007,7 +2007,7 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="twDhx3xl-G9JTQc75g7c-172" target="twDhx3xl-G9JTQc75g7c-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twDhx3xl-G9JTQc75g7c-201" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="twDhx3xl-G9JTQc75g7c-201" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=14;" vertex="1" parent="1">
           <mxGeometry x="10966" y="3150" width="1276" height="1550" as="geometry" />
         </mxCell>
       </root>
