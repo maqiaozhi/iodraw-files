@@ -2043,6 +2043,12 @@
         <mxCell id="twDhx3xl-G9JTQc75g7c-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="twDhx3xl-G9JTQc75g7c-40" source="twDhx3xl-G9JTQc75g7c-68" target="twDhx3xl-G9JTQc75g7c-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="twDhx3xl-G9JTQc75g7c-215" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12509" y="4031" as="sourcePoint" />
+            <mxPoint x="12559" y="3981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
