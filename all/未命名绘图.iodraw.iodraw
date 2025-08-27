@@ -2486,16 +2486,6 @@
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="WbhvLTrtxiTOkYgEUwxy-109" source="WbhvLTrtxiTOkYgEUwxy-137" target="WbhvLTrtxiTOkYgEUwxy-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-141" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;strokeWidth=6;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="16053" y="6116" as="sourcePoint" />
-            <mxPoint x="17163.14285714287" y="5469.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="16053" y="5880" />
-              <mxPoint x="17163" y="5880" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-142" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;SELECT _,_,_ FRPM _;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;strokeWidth=6;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="18726.88" y="5217" width="440" height="196.5" as="geometry" />
         </mxCell>
@@ -2504,33 +2494,6 @@
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-144" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="17457" y="6206" width="213.68" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-145" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=6;" edge="1" parent="1" target="WbhvLTrtxiTOkYgEUwxy-147">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="16934" y="5378" as="sourcePoint" />
-            <mxPoint x="16931" y="6317" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="16931" y="5378" />
-              <mxPoint x="16931" y="6309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-147" target="WbhvLTrtxiTOkYgEUwxy-144">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="17422" y="6331" />
-              <mxPoint x="17422" y="6331" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-147" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="17075.559999999998" y="6231.16" width="174" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-148" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=6;" edge="1" parent="1" target="WbhvLTrtxiTOkYgEUwxy-144">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="17165" y="5881" as="sourcePoint" />
-            <mxPoint x="17488" y="5910" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-142">
           <mxGeometry relative="1" as="geometry">
