@@ -2370,11 +2370,6 @@
             <mxPoint x="17243.119999999995" y="5374.999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;strokeWidth=6;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-105">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="17082" y="5375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-105" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16293" y="5275" width="174" height="200" as="geometry" />
         </mxCell>
