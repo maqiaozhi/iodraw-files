@@ -2567,6 +2567,9 @@
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-158" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15121" y="4357.8" width="213.68" height="203" as="geometry" />
         </mxCell>
+        <mxCell id="WbhvLTrtxiTOkYgEUwxy-160" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="15234" y="4790" width="292" height="147" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
