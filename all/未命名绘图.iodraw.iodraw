@@ -2559,8 +2559,11 @@
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-169" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="17470" y="5586" width="213.68" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="WbhvLTrtxiTOkYgEUwxy-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-167" target="WbhvLTrtxiTOkYgEUwxy-169">
+        <mxCell id="WbhvLTrtxiTOkYgEUwxy-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-167" target="WbhvLTrtxiTOkYgEUwxy-169">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbhvLTrtxiTOkYgEUwxy-173" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;FIN-SQL&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17431.84" y="5936" width="290" height="141.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
