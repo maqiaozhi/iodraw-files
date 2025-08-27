@@ -2557,7 +2557,10 @@
           <mxGeometry x="17360" y="4845.05" width="440" height="196.5" as="geometry" />
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-169" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="17490" y="5583" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="17470" y="5586" width="213.68" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="WbhvLTrtxiTOkYgEUwxy-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-167" target="WbhvLTrtxiTOkYgEUwxy-169">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
