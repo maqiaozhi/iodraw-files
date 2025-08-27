@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mOpZwotoYpCKyjan-j-i">
-    <mxGraphModel dx="203489" dy="2351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="202442" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2565,6 +2565,9 @@
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-160" value="&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#888964&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;question:&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;How many heads of the departments are older than 56 ?&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#888964&quot; style=&quot;font-size: 18px;&quot;&gt;question-template:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;How many _ of the _ are older than _ ?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#888964&quot;&gt;SQL:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;SELECT count(*) FROM head WHERE age&amp;nbsp; &amp;gt;&amp;nbsp; 56&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="15346" y="4827" width="418" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="WbhvLTrtxiTOkYgEUwxy-162" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17085.559999999998" y="6241.16" width="174" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
