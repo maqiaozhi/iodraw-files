@@ -2540,7 +2540,12 @@
           <mxGeometry x="15346" y="4827" width="418" height="235" as="geometry" />
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WbhvLTrtxiTOkYgEUwxy-162" target="WbhvLTrtxiTOkYgEUwxy-169">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17080" y="5712" />
+              <mxPoint x="17265" y="5712" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WbhvLTrtxiTOkYgEUwxy-162" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16992.999999999996" y="5023" width="174" height="200" as="geometry" />
