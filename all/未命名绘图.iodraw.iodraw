@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mOpZwotoYpCKyjan-j-i">
-    <mxGraphModel dx="203489" dy="2449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="202035" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2612,8 +2612,8 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-19" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;lt;NL,SQL&amp;gt;...&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e6d0de;strokeColor=#996185;direction=east;strokeWidth=4;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="13082" y="5023" width="265" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-21" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;1.获取数据库Scheme&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="13720" y="5007" width="380.5" height="84.84" as="geometry" />
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-21" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;采样&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12027" y="5571" width="380.5" height="84.84" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-22" value="" style="group;strokeWidth=25;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="13160.630000000001" y="7310" width="280.9300000000003" height="455" as="geometry" />
