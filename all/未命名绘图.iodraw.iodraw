@@ -2588,20 +2588,13 @@
           <mxGeometry x="15.739999999999782" width="154.53" height="65" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11946" y="5313" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="11730" y="5290" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="11336" y="5319" width="218" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11941" y="5415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="11748" y="5418" />
-              <mxPoint x="11748" y="5416" />
-              <mxPoint x="11941" y="5416" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-10" target="tICqhJv4Q19ey4dXfjQv-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
