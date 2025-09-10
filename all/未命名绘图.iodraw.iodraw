@@ -3035,7 +3035,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-169" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Prune-Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="16955.5" y="7685.75" width="281" height="180.5" as="geometry" />
+          <mxGeometry x="16945.5" y="8082" width="281" height="180.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
