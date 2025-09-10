@@ -2590,8 +2590,8 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="11962" y="5183" width="213.68" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-5" value="" style="sketch=1;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="11669" y="5064" width="202" height="247" as="geometry" />
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11562" y="5203" width="174" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
