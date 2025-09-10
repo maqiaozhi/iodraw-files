@@ -2848,10 +2848,10 @@
           <mxGeometry x="14725.980000000001" y="7200" width="208" height="171" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-102" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15558.01" y="7188.3099999999995" width="186.99" height="137.69" as="geometry" />
+          <mxGeometry x="15088" y="7219.999999999999" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-103" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15544.69" y="7457" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="15441" y="7168" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-104" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.Text*&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: initial; font-size: 36px;&quot;&gt;Text*-template&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="15453" y="7726" width="397.01" height="225" as="geometry" />
