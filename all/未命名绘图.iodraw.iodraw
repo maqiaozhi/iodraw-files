@@ -3018,7 +3018,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-164" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Prune-Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="16945.5" y="7675.75" width="281" height="180.5" as="geometry" />
+          <mxGeometry x="17491" y="7181" width="281" height="180.5" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-165" target="tICqhJv4Q19ey4dXfjQv-107">
           <mxGeometry relative="1" as="geometry" />
@@ -3030,7 +3030,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-169" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;M-Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="16945.5" y="8082" width="281" height="180.5" as="geometry" />
+          <mxGeometry x="17491" y="7587.25" width="281" height="180.5" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-164" target="tICqhJv4Q19ey4dXfjQv-169">
           <mxGeometry relative="1" as="geometry" />
