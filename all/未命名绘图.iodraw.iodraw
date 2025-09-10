@@ -3025,10 +3025,13 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-164" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Prune-Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="16945.5" y="7675.75" width="281" height="180.5" as="geometry" />
         </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-165" target="tICqhJv4Q19ey4dXfjQv-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-165" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" vertex="1" parent="1">
           <mxGeometry x="15746" y="8084.5" width="166" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.66;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-104" target="tICqhJv4Q19ey4dXfjQv-165">
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.66;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-104" target="tICqhJv4Q19ey4dXfjQv-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
