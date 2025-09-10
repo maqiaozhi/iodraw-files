@@ -2599,8 +2599,8 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="tICqhJv4Q19ey4dXfjQv-7">
           <mxGeometry x="828" y="54" width="174" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="11374" y="5899" width="80" height="100" as="geometry" />
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="11374" y="5744" width="230" height="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
