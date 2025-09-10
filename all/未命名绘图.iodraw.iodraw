@@ -2604,8 +2604,8 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-13" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;lt;NL,SQL&amp;gt;...&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;direction=east;" vertex="1" parent="1">
           <mxGeometry x="12085" y="5345" width="265" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="12172" y="5120" width="60" height="80" as="geometry" />
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-15" value="SQLite" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="12154" y="5036" width="127" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
