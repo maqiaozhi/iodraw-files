@@ -2835,11 +2835,35 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-87" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="11666.77" y="6173" width="218" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-89" target="tICqhJv4Q19ey4dXfjQv-23">
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-89" target="tICqhJv4Q19ey4dXfjQv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-89" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;三元组&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="12159" y="6173" width="195" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-92" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=6;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="15296.39" y="5951.8" width="185.18" height="721.6" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-93" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="14746.51" y="5193" width="208" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-94" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14756.99" y="5474.3099999999995" width="186.99" height="137.69" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-95" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14743.67" y="5743" width="213.68" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-96" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.Text*&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: initial; font-size: 36px;&quot;&gt;Text*-template&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="14651.98" y="6012" width="397.01" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-97" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14743.64" y="6285" width="213.68" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-98" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SQL1&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14756.99" y="6523" width="186.99" height="137.69" as="geometry" />
+        </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-99" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
+          <mxGeometry x="15278" y="6503" width="178" height="178" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
