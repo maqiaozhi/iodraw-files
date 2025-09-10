@@ -3115,7 +3115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-206" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;采样&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12000.59" y="5669" width="380.5" height="84.84" as="geometry" />
+          <mxGeometry x="11783" y="5625" width="380.5" height="84.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
