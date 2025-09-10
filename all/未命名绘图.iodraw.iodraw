@@ -2863,7 +2863,7 @@
           <mxGeometry x="15537.269999999999" y="7060" width="226.73" height="146.69" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-107" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
-          <mxGeometry x="16064" y="6989" width="178" height="178" as="geometry" />
+          <mxGeometry x="16044" y="7030.5" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-108" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="15784" y="7352" width="721.5999999999985" height="185.1800000000003" as="geometry" />
@@ -2884,7 +2884,7 @@
           <mxGeometry x="500.59000000000015" y="20.520000000000437" width="216" height="144.15" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-114" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="16276" y="7670" width="462" height="400.66" as="geometry" />
+          <mxGeometry x="15883" y="7669" width="462" height="400.66" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-115" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="tICqhJv4Q19ey4dXfjQv-114">
           <mxGeometry x="16.00158322745221" y="39.00475482375731" width="424.60841677254774" height="350.7852451762427" as="geometry" />
