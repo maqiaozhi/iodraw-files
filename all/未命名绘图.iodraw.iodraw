@@ -2605,7 +2605,7 @@
           <mxGeometry x="12085" y="5345" width="265" height="148" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-15" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="12154" y="5037" width="127" height="160" as="geometry" />
+          <mxGeometry x="12173" y="4987" width="170" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
