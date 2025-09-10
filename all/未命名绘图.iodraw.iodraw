@@ -2590,6 +2590,10 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-9" target="tICqhJv4Q19ey4dXfjQv-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11941" y="5418" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="12399" y="5414" />
+              <mxPoint x="12399" y="5418" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-10" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
@@ -2599,7 +2603,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-13" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;lt;NL,SQL&amp;gt;...&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;direction=east;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="12602.5" y="5343.5" width="265" height="148" as="geometry" />
+          <mxGeometry x="12622" y="5338" width="265" height="148" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-15" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="12650" y="4981" width="170" height="196" as="geometry" />
@@ -2613,12 +2617,6 @@
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-13" target="tICqhJv4Q19ey4dXfjQv-15">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" target="tICqhJv4Q19ey4dXfjQv-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11941" y="5418" as="sourcePoint" />
-            <mxPoint x="12592" y="5418" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="11982" y="5291" width="213.68" height="203" as="geometry" />
