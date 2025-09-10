@@ -2611,10 +2611,11 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-15" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="12650" y="4981" width="170" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-10" target="tICqhJv4Q19ey4dXfjQv-15">
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-10" target="tICqhJv4Q19ey4dXfjQv-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11445" y="5091" />
+              <mxPoint x="11445" y="5319" />
+              <mxPoint x="11445" y="5092" />
             </Array>
           </mxGeometry>
         </mxCell>
