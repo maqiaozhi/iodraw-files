@@ -2875,7 +2875,7 @@
           <mxGeometry x="16169.479999999996" y="7318" width="226.73" height="146.69" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-107" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
-          <mxGeometry x="17424" y="6981.5" width="178" height="178" as="geometry" />
+          <mxGeometry x="17483" y="7495" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-108" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="15937" y="6886" width="721.5999999999985" height="185.1800000000003" as="geometry" />
@@ -3020,7 +3020,7 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-161" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16999" y="7641" width="174" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-116" target="tICqhJv4Q19ey4dXfjQv-161">
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-116" target="tICqhJv4Q19ey4dXfjQv-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
