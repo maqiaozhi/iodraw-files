@@ -3023,6 +3023,9 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-116" target="tICqhJv4Q19ey4dXfjQv-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-164" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Schema&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=8;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="11676.77" y="6183" width="218" height="197" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
