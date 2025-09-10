@@ -3114,6 +3114,9 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-205" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tICqhJv4Q19ey4dXfjQv-194" target="tICqhJv4Q19ey4dXfjQv-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-206" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;采样&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12000.59" y="5669" width="380.5" height="84.84" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
