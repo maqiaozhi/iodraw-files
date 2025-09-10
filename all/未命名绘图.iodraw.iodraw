@@ -2630,7 +2630,7 @@
         <mxCell id="tICqhJv4Q19ey4dXfjQv-21" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;1.获取数据库Scheme&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="13720" y="5007" width="380.5" height="84.84" as="geometry" />
         </mxCell>
-        <mxCell id="tICqhJv4Q19ey4dXfjQv-22" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="tICqhJv4Q19ey4dXfjQv-22" value="" style="group;strokeWidth=18;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="12222.000000000002" y="6044" width="280.9300000000003" height="455" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="tICqhJv4Q19ey4dXfjQv-22">
