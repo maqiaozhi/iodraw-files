@@ -2854,10 +2854,10 @@
           <mxGeometry x="14975" y="7652" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-104" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text*&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="14956.68" y="7974.59" width="232" height="160" as="geometry" />
+          <mxGeometry x="14971" y="7962" width="232" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-105" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15841" y="7655" width="213.68" height="203" as="geometry" />
+          <mxGeometry x="15776" y="7671" width="213.68" height="203" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-106" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SQL1&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15558.01" y="8237" width="186.99" height="137.69" as="geometry" />
