@@ -2845,10 +2845,10 @@
           <mxGeometry x="500.59000000000015" y="20.520000000000437" width="216" height="144.15" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-101" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="14725.980000000001" y="7200" width="208" height="171" as="geometry" />
+          <mxGeometry x="14650.000000000002" y="7495" width="208" height="171" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-102" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15088" y="7219.999999999999" width="186.99" height="137.69" as="geometry" />
+          <mxGeometry x="14985" y="7514.999999999999" width="186.99" height="137.69" as="geometry" />
         </mxCell>
         <mxCell id="tICqhJv4Q19ey4dXfjQv-103" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15441" y="7168" width="213.68" height="203" as="geometry" />
