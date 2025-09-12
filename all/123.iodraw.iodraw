@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mOpZwotoYpCKyjan-j-i">
-    <mxGraphModel dx="207305" dy="4115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="205844" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200000" pageHeight="20000000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1337,7 +1337,7 @@
         <mxCell id="Tnzy-cWrNBio2xvPLpMB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;fillStyle=auto;gradientColor=none;dashed=1;dashPattern=8 8;strokeWidth=5;strokeColor=#1b3ff3;" parent="Tnzy-cWrNBio2xvPLpMB-8" vertex="1">
           <mxGeometry x="42" width="1612" height="998" as="geometry" />
         </mxCell>
-        <mxCell id="Tnzy-cWrNBio2xvPLpMB-10" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#c71d23&quot;&gt;研究内容1：&lt;/font&gt;基于思维链（chain-of-Thought，CoT）的推理方法研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;align=left;" parent="Tnzy-cWrNBio2xvPLpMB-8" vertex="1">
+        <mxCell id="Tnzy-cWrNBio2xvPLpMB-10" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#c71d23&quot;&gt;研究内容2：&lt;/font&gt;基于思维链（chain-of-Thought，CoT）的推理方法研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;align=left;" parent="Tnzy-cWrNBio2xvPLpMB-8" vertex="1">
           <mxGeometry x="112" y="104" width="1472" height="262" as="geometry" />
         </mxCell>
         <mxCell id="Tnzy-cWrNBio2xvPLpMB-11" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#c71d23&quot;&gt;关键科学问题：&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;b&gt;如何利用CoT方法与Gragh RAG方法融合，以增强&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: initial; font-size: 72px;&quot;&gt;Text2SQL任务&lt;/b&gt;&lt;b style=&quot;font-size: 72px; background-color: initial;&quot;&gt;逻辑推理能力和准确性&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;align=left;" parent="Tnzy-cWrNBio2xvPLpMB-8" vertex="1">
