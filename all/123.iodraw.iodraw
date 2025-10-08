@@ -3288,7 +3288,7 @@
         <mxCell id="ZgyxcEEonVgxQVCNBarw-62" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;集合操作(434)&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="13853" y="10593" width="213" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="ZgyxcEEonVgxQVCNBarw-63" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;子查询&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;(434)&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZgyxcEEonVgxQVCNBarw-63" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;排序(434)&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="14216" y="10812" width="213" height="114" as="geometry" />
         </mxCell>
       </root>
