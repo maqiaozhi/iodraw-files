@@ -3228,9 +3228,6 @@
         <mxCell id="ZgyxcEEonVgxQVCNBarw-40" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&amp;lt;NL,SQL&amp;gt;...&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e6d0de;strokeColor=#996185;direction=east;strokeWidth=4;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="13273" y="9902" width="265" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="ZgyxcEEonVgxQVCNBarw-41" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;30&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12065" y="10496.08" width="380.5" height="84.84" as="geometry" />
-        </mxCell>
         <mxCell id="ZgyxcEEonVgxQVCNBarw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="ZgyxcEEonVgxQVCNBarw-43" target="ZgyxcEEonVgxQVCNBarw-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3241,7 +3238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZgyxcEEonVgxQVCNBarw-45" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;SQL模板&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;（957）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;strokeWidth=6;" vertex="1" parent="1">
-          <mxGeometry x="12289.59" y="11039" width="164.5" height="192" as="geometry" />
+          <mxGeometry x="12626.83" y="11039" width="164.5" height="192" as="geometry" />
         </mxCell>
         <mxCell id="ZgyxcEEonVgxQVCNBarw-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="11866" y="10666" width="1686.16" height="188" as="geometry" />
@@ -3279,17 +3276,8 @@
         <mxCell id="ZgyxcEEonVgxQVCNBarw-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZgyxcEEonVgxQVCNBarw-52" target="ZgyxcEEonVgxQVCNBarw-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZgyxcEEonVgxQVCNBarw-57" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;40&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12904" y="11316" width="380.5" height="84.84" as="geometry" />
-        </mxCell>
         <mxCell id="ZgyxcEEonVgxQVCNBarw-58" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;20&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="13157.5" y="11328" width="380.5" height="84.84" as="geometry" />
-        </mxCell>
-        <mxCell id="ZgyxcEEonVgxQVCNBarw-59" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12341" y="10496.08" width="380.5" height="84.84" as="geometry" />
-        </mxCell>
-        <mxCell id="ZgyxcEEonVgxQVCNBarw-60" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;采样&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="12445.5" y="10496.08" width="380.5" height="84.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
