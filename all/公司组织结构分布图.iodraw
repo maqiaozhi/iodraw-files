@@ -368,10 +368,10 @@
           <mxGeometry x="860" y="870" width="172.1" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Nested-query&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="890" y="930" width="172.1" height="50" as="geometry" />
+          <mxGeometry x="520" y="840" width="172.1" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sorting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1170" width="172.1" height="50" as="geometry" />
+          <mxGeometry x="720" y="1040" width="172.1" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Set-operations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="320" y="1000" width="172.1" height="50" as="geometry" />
