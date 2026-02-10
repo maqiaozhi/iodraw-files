@@ -377,10 +377,10 @@
           <mxGeometry x="289.9999999999999" y="894" width="424.96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT COUNT(*) FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; &amp;gt; &amp;lt;V&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="299.9999999999999" y="904" width="424.96" height="50" as="geometry" />
+          <mxGeometry x="459.9999999999999" y="1000" width="424.96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Single-table&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="307.89999999999986" y="1000" width="424.96" height="50" as="geometry" />
+          <mxGeometry x="307.9" y="1000" width="112.1" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
