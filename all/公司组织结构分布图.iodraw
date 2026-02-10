@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="-240" y="820" width="465.04" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffefc1;strokeColor=#d6b656;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
@@ -343,13 +343,13 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-6" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-566.29" y="940" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT COUNT(*) FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; &amp;gt; &amp;lt;V&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT COUNT(*) FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; &amp;gt; &amp;lt;V&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-219.9600000000001" y="870" width="424.96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt; UNION SELECT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt; UNION SELECT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-219.9600000000001" y="1010" width="424.96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT AVG(&amp;lt;C&amp;gt;) FROM &amp;lt;T&amp;gt; JOIN &amp;lt;T&amp;gt; ON &amp;lt;C&amp;gt; = &amp;lt;C&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT AVG(&amp;lt;C&amp;gt;) FROM &amp;lt;T&amp;gt; JOIN &amp;lt;T&amp;gt; ON &amp;lt;C&amp;gt; = &amp;lt;C&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-219.9600000000001" y="930" width="424.96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-10" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
