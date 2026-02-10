@@ -332,7 +332,7 @@
           <mxGeometry x="-243.08" y="960" width="413.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT phone_number FROM customers UNION SELECT phone_number FROM staff&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-243.08" y="1080" width="413.08" height="50" as="geometry" />
+          <mxGeometry x="-243.08" y="1100" width="413.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT AVG(T2.Age) FROM gymnast AS T1 JOIN people AS T2 ON T1.Gymnast_ID&amp;nbsp; =&amp;nbsp; T2.People_ID&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-243.08" y="1020" width="413.08" height="50" as="geometry" />
