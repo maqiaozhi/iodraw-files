@@ -433,6 +433,9 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-81" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="726.9299999999998" y="1580" width="70" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT DISTINCT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; != &amp;lt;V&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1450" width="447.48" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
