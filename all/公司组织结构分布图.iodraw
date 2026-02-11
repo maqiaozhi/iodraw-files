@@ -935,8 +935,8 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-136" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Return&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="919.9999999999999" y="3223" width="109" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZiOUa9latERRnAYg7-140" value="SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-574" y="1839" width="42" height="26" as="geometry" />
+        <mxCell id="Q-UZiOUa9latERRnAYg7-140" value="SQL Template Clustering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-628" y="1839" width="151" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
