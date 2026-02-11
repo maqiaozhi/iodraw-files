@@ -604,8 +604,8 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-154" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Clustering&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1031" y="2037.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-155" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Representative Template&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="641.3799999999999" y="2384" width="230" height="34" as="geometry" />
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-155" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Cluster 1 Representative Template&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="596.3799999999999" y="2381" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-156" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="578.19" y="2531" width="470" height="120" as="geometry" />
