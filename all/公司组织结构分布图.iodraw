@@ -544,9 +544,6 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT AVG(&amp;lt;C&amp;gt;) FROM &amp;lt;T&amp;gt; JOIN &amp;lt;T&amp;gt; ON &amp;lt;C&amp;gt; = &amp;lt;C&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-42.46000000000009" y="2070" width="424.96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-133" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="140.59999999999994" y="2080" width="70" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Raw SQLs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-486.28999999999996" y="1964" width="110" height="40" as="geometry" />
         </mxCell>
