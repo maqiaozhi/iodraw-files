@@ -742,10 +742,10 @@
           <mxGeometry x="499" y="3446" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-20" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Success&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-234.4999999999999" y="3162" width="124" height="43" as="geometry" />
+          <mxGeometry x="-227.9999999999999" y="3153" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-21" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Fail&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-189.9999999999999" y="2826.91" width="63" height="43" as="geometry" />
+          <mxGeometry x="-186.9999999999999" y="2845" width="63" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
