@@ -819,10 +819,10 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-48" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;NLQs Generator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1058.3799999999999" y="3819" width="219" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZiOUa9latERRnAYg7-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Q-UZiOUa9latERRnAYg7-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="490" y="3596" width="450" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZiOUa9latERRnAYg7-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM singer WHERE Age &amp;gt; 30&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Q-UZiOUa9latERRnAYg7-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How many singers are older than 30 years?&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="508.4599999999999" y="3662" width="413.08" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM stadium WHERE Highest &amp;gt; 2000&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
