@@ -888,7 +888,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DzNQemOuZZ8FTLU_kQzY-177" target="DzNQemOuZZ8FTLU_kQzY-188">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-746" y="2415" />
+              <mxPoint x="-746" y="2842" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
