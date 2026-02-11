@@ -793,7 +793,7 @@
           <mxGeometry x="-152.98000000000002" y="3357" width="450" height="234" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How many singers are older than 30 years?&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="878.26" y="3334" width="413.08" height="33" as="geometry" />
+          <mxGeometry x="1078" y="2713" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How many stadiums have a historical highest attendance greater than 2000?&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="878.26" y="3435" width="413.08" height="50" as="geometry" />
