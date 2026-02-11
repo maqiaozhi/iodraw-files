@@ -667,7 +667,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-174" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="149.25000000000009" y="2030.5" width="65" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffefc1;strokeColor=#d6b656;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-656.29" y="2393" width="450" height="234" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-178" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM singer WHERE Age &amp;gt; 30&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
