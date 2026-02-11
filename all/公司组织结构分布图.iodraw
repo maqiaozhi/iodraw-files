@@ -703,10 +703,8 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzNQemOuZZ8FTLU_kQzY-188" target="Q-UZiOUa9latERRnAYg7-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-561" y="2761" />
-              <mxPoint x="-121" y="2761" />
-              <mxPoint x="-121" y="2792" />
-              <mxPoint x="306" y="2792" />
+              <mxPoint x="-561" y="2740" />
+              <mxPoint x="306" y="2740" />
             </Array>
           </mxGeometry>
         </mxCell>
