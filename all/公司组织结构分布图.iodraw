@@ -938,6 +938,9 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-140" value="&lt;h1 style=&quot;text-align: center; margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: 26px; position: relative; word-break: break-all; font-size: 56px;&quot;&gt;①&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-wrap: nowrap; background-color: initial; text-align: center;&quot;&gt;SQL Template Clustering&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-717.83" y="1824" width="738" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="Q-UZiOUa9latERRnAYg7-141" value="&lt;h1 style=&quot;text-align: center; margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: 26px; position: relative; word-break: break-all; font-size: 56px;&quot;&gt;①&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-wrap: nowrap; background-color: initial; text-align: center;&quot;&gt;SQL Template Clustering&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-707.83" y="1834" width="738" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
