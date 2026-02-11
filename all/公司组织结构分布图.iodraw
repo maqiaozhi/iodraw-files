@@ -496,8 +496,8 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-111" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;I-Schema(Full-Schema)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="1306" width="306" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-115" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Template Selector&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-139" y="1454" width="250" height="40" as="geometry" />
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-115" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;SQLs Generator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-122" y="1453" width="217" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
