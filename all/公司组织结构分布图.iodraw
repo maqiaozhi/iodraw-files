@@ -530,10 +530,10 @@
           <mxGeometry x="-658.42" y="1960" width="450" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-126" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;...&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-639.96" y="2082" width="413.08" height="29" as="geometry" />
+          <mxGeometry x="-639.96" y="2080.5" width="413.08" height="29" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM head WHERE age&amp;nbsp; &amp;gt;&amp;nbsp; 56&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-639.96" y="2010" width="413.08" height="44" as="geometry" />
+          <mxGeometry x="-639.96" y="2010" width="413.08" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-128" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT phone_number FROM customers UNION SELECT phone_number FROM staff&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-637.83" y="2140" width="413.08" height="50" as="geometry" />
