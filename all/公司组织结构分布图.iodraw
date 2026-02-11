@@ -502,7 +502,7 @@
           <mxGeometry x="205" y="1185" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;I-schema&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1454" width="96" height="34" as="geometry" />
+          <mxGeometry x="232" y="1333" width="96" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
