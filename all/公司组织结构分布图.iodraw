@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="526.9300000000001" y="1200" width="470" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;gradientDirection=radial;" vertex="1" parent="1">
@@ -442,7 +442,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-90" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Cluster 1 Representative Template&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545.1199999999999" y="1200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="526.9300000000001" y="1350" width="470" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;SELECT DISTINCT &amp;lt;C&amp;gt; FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; != &amp;lt;V&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=3;" vertex="1" parent="1">
