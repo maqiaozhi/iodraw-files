@@ -550,7 +550,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-136" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SQL-templates&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95.01999999999998" y="1964" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Group-aggregation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Group-aggregation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="834" y="2137" width="172.1" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Nested-query&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" vertex="1" parent="1">
