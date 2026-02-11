@@ -792,6 +792,14 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-38" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Small Database Instance&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="694.97" y="3288.75" width="323" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="Q-UZiOUa9latERRnAYg7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-UZiOUa9latERRnAYg7-7" target="Q-UZiOUa9latERRnAYg7-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-38" y="3372" />
+              <mxPoint x="871" y="3372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
