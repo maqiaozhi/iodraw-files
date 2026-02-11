@@ -772,7 +772,7 @@
           <mxGeometry x="672.76" y="2721" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-38" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Small Database Instance&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2949" width="323" height="43" as="geometry" />
+          <mxGeometry x="179.01999999999998" y="2944" width="323" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-UZiOUa9latERRnAYg7-43" target="Q-UZiOUa9latERRnAYg7-89">
           <mxGeometry relative="1" as="geometry" />
