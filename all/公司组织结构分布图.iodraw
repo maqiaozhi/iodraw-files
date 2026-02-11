@@ -650,7 +650,7 @@
           <mxGeometry x="208.01999999999998" y="2463.5" width="306" height="43" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-170" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;SQLs Generator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-43.120000000000005" y="2601" width="217" height="43" as="geometry" />
+          <mxGeometry x="-38.480000000000004" y="2601" width="217" height="43" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-171" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-639.96" y="2072.5" width="413.08" height="33" as="geometry" />
