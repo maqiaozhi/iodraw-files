@@ -440,7 +440,7 @@
           <mxGeometry x="-303.07000000000005" y="910" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-87" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Classification&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310.00000000000006" y="1330" width="190" height="40" as="geometry" />
+          <mxGeometry x="305.03999999999996" y="900" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
