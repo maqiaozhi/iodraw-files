@@ -797,8 +797,13 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-48" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;NLQs Generator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="834.7799999999999" y="2918.5" width="219" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZiOUa9latERRnAYg7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-UZiOUa9latERRnAYg7-49" target="Q-UZiOUa9latERRnAYg7-98">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Q-UZiOUa9latERRnAYg7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Q-UZiOUa9latERRnAYg7-49" target="Q-UZiOUa9latERRnAYg7-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1669" y="2823" />
+              <mxPoint x="1669" y="3267" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1151.5100000000002" y="2705.5" width="450" height="234" as="geometry" />
