@@ -480,6 +480,9 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-99" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Representative-templates&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="576.38" y="1201" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-102" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Clustering&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="929.9999999999999" y="920" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
