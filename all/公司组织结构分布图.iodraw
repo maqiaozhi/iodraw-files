@@ -761,6 +761,9 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-28" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Discard&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="64.61000000000013" y="2909" width="113" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="Q-UZiOUa9latERRnAYg7-29" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Discard&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="74.61000000000013" y="2919" width="113" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
