@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="458.74" y="1190" width="470" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;gradientDirection=radial;" vertex="1" parent="1">
@@ -446,7 +446,7 @@
           <mxGeometry x="903.9999999999999" y="910" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-90" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Cluster 1 Representative Template&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-55.98000000000002" y="1340" width="320" height="40" as="geometry" />
+          <mxGeometry x="476.92999999999995" y="1190" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
