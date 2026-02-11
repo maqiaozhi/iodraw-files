@@ -533,7 +533,7 @@
           <mxGeometry x="-639.96" y="2010" width="413.08" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-128" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT phone_number FROM customers UNION SELECT phone_number FROM staff&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-637.83" y="2140" width="413.08" height="50" as="geometry" />
+          <mxGeometry x="-639.96" y="2103" width="413.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SELECT COUNT(*) FROM &amp;lt;T&amp;gt; WHERE &amp;lt;C&amp;gt; &amp;gt; &amp;lt;V&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-42.46000000000009" y="2010" width="424.96" height="50" as="geometry" />
@@ -662,7 +662,7 @@
           <mxGeometry x="-639.96" y="2057" width="413.08" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-172" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-321.07" y="2260" width="65" height="79" as="geometry" />
+          <mxGeometry x="-465.91999999999996" y="2017" width="65" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
