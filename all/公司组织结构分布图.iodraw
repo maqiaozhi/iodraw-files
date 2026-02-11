@@ -673,7 +673,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-178" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM singer WHERE Age &amp;gt; 30&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-637.83" y="2459" width="413.08" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-179" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT phone_number FROM customers UNION SELECT phone_number FROM staff&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-179" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM stadium WHERE Highest &amp;gt; 2000&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-637.83" y="2560" width="413.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-180" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Pre-generated SQLs&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
