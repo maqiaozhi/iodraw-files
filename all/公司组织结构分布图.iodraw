@@ -864,8 +864,11 @@
         <mxCell id="Q-UZiOUa9latERRnAYg7-104" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;NLQ-Results&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1022.0699999999999" y="3399" width="175" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZiOUa9latERRnAYg7-107" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Generate&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Q-UZiOUa9latERRnAYg7-107" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Compare&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890.9900000000002" y="3257" width="131" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZiOUa9latERRnAYg7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-UZiOUa9latERRnAYg7-100" target="Q-UZiOUa9latERRnAYg7-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
