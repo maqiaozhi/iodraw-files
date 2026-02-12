@@ -1053,8 +1053,8 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-70" value="Set Operation Identifier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2228" y="4919" width="141" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-71" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Set Operation Identifier&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="5203" width="454" height="55" as="geometry" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-71" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Set-Operation Identifier&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1578" y="5200" width="461" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
