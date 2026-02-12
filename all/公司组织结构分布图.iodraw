@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-99" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientDirection=radial;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-364.26" y="4054" width="2804.26" height="636" as="geometry" />
+        </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="MZisx0vzKShpAC2FMIGr-86" target="MZisx0vzKShpAC2FMIGr-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1112,9 +1115,6 @@
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-94" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;with Self-Consistency&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="222.00178850446474" y="5608.002137276786" width="182" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-99" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientDirection=radial;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-716" y="3193" width="2347.51" height="282" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
