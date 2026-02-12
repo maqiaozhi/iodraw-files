@@ -1126,7 +1126,7 @@
           <mxGeometry x="410.45000000000005" y="5106" width="533" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-104" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SQLs Generator&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="12.149999999999995" y="2524" width="223" height="45" as="geometry" />
+          <mxGeometry x="522.09" y="5700" width="223" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
