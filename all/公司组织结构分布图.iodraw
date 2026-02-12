@@ -653,8 +653,8 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-163" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Representative-templates&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="682.89" y="2261" width="237" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-164" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Templates Selector&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1272.6299999999999" y="2527.5" width="255" height="43" as="geometry" />
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-164" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Templates Selector&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1268.6299999999999" y="2526.5" width="263" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-165" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Select&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1152.6299999999999" y="2384" width="100" height="40" as="geometry" />
