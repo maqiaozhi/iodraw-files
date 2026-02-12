@@ -1032,8 +1032,8 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Multi-table&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1941" y="5054" width="172.1" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;No Join, No Nesting&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=6;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="4731" width="423.86" height="97" as="geometry" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-52" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;No Join, No Nesting&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1110.89" y="4685" width="412" height="97" as="geometry" />
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-53" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot; face=&quot;Comic Sans MS&quot;&gt;Types of SQL Classification&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1097" y="5249" width="509" height="55" as="geometry" />
