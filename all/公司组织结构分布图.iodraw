@@ -1038,8 +1038,8 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-59" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Join, Nesting&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=6;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1073" y="5176" width="412" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-64" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 36px; text-wrap: wrap;&quot;&gt;No Join, No Nesting&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1798" y="4783" width="381" height="55" as="geometry" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-64" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 36px; text-wrap: wrap;&quot;&gt;&lt;b&gt;Difficulty Identification&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1769" y="4783" width="439" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
