@@ -1053,6 +1053,9 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-71" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Set-Operation Identifier&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1571" y="5199" width="461" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="MZisx0vzKShpAC2FMIGr-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;gradientDirection=radial;strokeWidth=6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2193" y="4970" width="439.22" height="123" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
