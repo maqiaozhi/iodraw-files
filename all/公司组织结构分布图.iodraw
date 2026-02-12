@@ -988,7 +988,7 @@
           <mxGeometry x="1868" y="4498" width="237" height="74" as="geometry" />
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-33" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;forced-color-adjust: none; font-size: 26px;&quot;&gt;I-Schema(only-Tables)&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.886748046875" y="4501.99650390625" width="328" height="53" as="geometry" />
+          <mxGeometry x="351.99674804687504" y="4366.99650390625" width="328" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
