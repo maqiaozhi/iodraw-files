@@ -520,7 +520,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="593.7" y="2304" width="470" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-119" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientDirection=radial;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-119" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;gradientDirection=radial;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-705.24" y="1891" width="2314" height="279" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="DzNQemOuZZ8FTLU_kQzY-121" target="DzNQemOuZZ8FTLU_kQzY-146" edge="1">
@@ -925,7 +925,7 @@
           <mxGeometry x="907.9999999999999" y="3266" width="109" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-140" value="&lt;h1 style=&quot;text-align: center; margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: 26px; position: relative; word-break: break-all; font-size: 56px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;①&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap: nowrap; background-color: initial; text-align: center;&quot;&gt;SQL-templates Clustering&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-725.24" y="1838" width="779" height="42" as="geometry" />
+          <mxGeometry x="-705.24" y="1834" width="779" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZiOUa9latERRnAYg7-141" value="&lt;h1 style=&quot;text-align: center; margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: 26px; position: relative; word-break: break-all; font-size: 56px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;②SQLs Generation&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-722.2400000000001" y="2180" width="533" height="42" as="geometry" />
