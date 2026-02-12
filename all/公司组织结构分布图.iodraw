@@ -1041,6 +1041,9 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-64" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 36px; text-wrap: wrap;&quot;&gt;&lt;b&gt;Difficulty Identification&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1769" y="4783" width="439" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="MZisx0vzKShpAC2FMIGr-65" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 36px; text-wrap: wrap;&quot;&gt;Difficulty Identification&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="5116" width="439" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
