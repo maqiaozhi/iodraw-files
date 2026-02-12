@@ -942,17 +942,11 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=3;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="368.1300000000002" y="3903" width="450" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How many singers are older than 30 years?&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=3;gradientColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="386.59000000000026" y="3969" width="413.08" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How many stadiums have a historical highest attendance greater than 2000?&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=3;gradientColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="386.59000000000026" y="4070" width="413.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-7" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Pre-generated NLQs&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="478.6300000000002" y="3914" width="210" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=3;gradientColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="386.59000000000026" y="4019.5" width="413.08" height="33" as="geometry" />
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-9" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="560.6300000000002" y="3984.5" width="65" height="79" as="geometry" />
