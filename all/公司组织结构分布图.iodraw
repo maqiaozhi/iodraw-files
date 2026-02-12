@@ -978,8 +978,8 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-29" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Tables Selector&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="723.8899999999999" y="4546" width="218" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-30" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Tables Selector&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="733.8899999999999" y="4556" width="218" height="45" as="geometry" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-30" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;columns Selector&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="4539.75" width="229" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
