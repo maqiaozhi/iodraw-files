@@ -960,8 +960,14 @@
         <mxCell id="MZisx0vzKShpAC2FMIGr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="MZisx0vzKShpAC2FMIGr-12" target="MZisx0vzKShpAC2FMIGr-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MZisx0vzKShpAC2FMIGr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZisx0vzKShpAC2FMIGr-12" target="MZisx0vzKShpAC2FMIGr-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MZisx0vzKShpAC2FMIGr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="MZisx0vzKShpAC2FMIGr-12" target="MZisx0vzKShpAC2FMIGr-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-329" y="4412" />
+              <mxPoint x="-329" y="4672" />
+              <mxPoint x="12" y="4672" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MZisx0vzKShpAC2FMIGr-12" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; Natural Language Question&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;strokeWidth=6;gradientColor=none;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="-309.36" y="4364" width="642.36" height="95.5" as="geometry" />
