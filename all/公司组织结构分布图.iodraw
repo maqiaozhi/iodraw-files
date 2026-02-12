@@ -567,7 +567,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Group-aggregation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="910.89" y="2090" width="172.1" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-138" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Nested-query&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-138" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;Nested-query&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="910.89" y="1950" width="172.1" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-139" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Sorting&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=3;" parent="1" vertex="1">
