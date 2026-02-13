@@ -1150,7 +1150,7 @@
           <mxGeometry x="-2715.6800000000003" y="2953.5" width="53" height="45" as="geometry" />
         </mxCell>
         <mxCell id="B218ysMSDqW2-lDDBJl0-1" value="Some example text that&#39;s free-flowing within the dropdown menu.&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;And this is more example text." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="5242" width="170" height="884" as="geometry" />
+          <mxGeometry x="594" y="4904" width="948" height="1173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
