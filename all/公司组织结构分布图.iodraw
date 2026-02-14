@@ -561,7 +561,7 @@
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;shadow=0;" parent="1" source="DzNQemOuZZ8FTLU_kQzY-125" target="DzNQemOuZZ8FTLU_kQzY-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DzNQemOuZZ8FTLU_kQzY-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffefc1;strokeColor=#d6b656;gradientColor=default;strokeWidth=3;shadow=0;" parent="1" vertex="1">
+        <mxCell id="DzNQemOuZZ8FTLU_kQzY-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2476ae;strokeColor=#d6b656;gradientColor=none;strokeWidth=3;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-2643.5299999999997" y="1915" width="450" height="234" as="geometry" />
         </mxCell>
         <mxCell id="DzNQemOuZZ8FTLU_kQzY-127" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SELECT COUNT(*) FROM head WHERE age&amp;nbsp; &amp;gt;&amp;nbsp; 56&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;strokeWidth=3;shadow=0;" parent="1" vertex="1">
