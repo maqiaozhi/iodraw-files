@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="Core Difference in Few-shot Example Source" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="360" y="570" width="700" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="left_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;strokeColor=#d93016;fillColor=#fff7f3;" parent="1" vertex="1">
           <mxGeometry x="140" y="660" width="520" height="570" as="geometry" />
         </mxCell>
@@ -54,9 +51,6 @@
         </mxCell>
         <mxCell id="r_note" value="Examples come from the target database" style="text;html=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;fontColor=#0b57d0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="770" y="1190" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="caption" value="Key distinction: the source of few-shot examples." style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1260" width="600" height="35" as="geometry" />
         </mxCell>
         <mxCell id="contrast" value="different&lt;br&gt;example&lt;br&gt;source" style="text;html=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#666666;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="665" y="915" width="70" height="100" as="geometry" />
