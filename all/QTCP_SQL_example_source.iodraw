@@ -47,7 +47,7 @@
           <mxGeometry x="785" y="1105" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l_note" value="Examples come from general training data" style="text;html=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;fontColor=#d93016;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1190" width="460" height="30" as="geometry" />
+          <mxGeometry x="120" y="1500" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r_note" value="Examples come from the target database" style="text;html=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;fontColor=#0b57d0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="770" y="1190" width="460" height="30" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="r_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="820" y="1118" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="e1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" source="l_input" target="l_source" edge="1">
+        <mxCell id="e1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" source="l_input" target="l_source" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d93016;" parent="1" source="l_source" target="l_llm" edge="1">
