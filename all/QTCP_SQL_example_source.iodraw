@@ -17,7 +17,7 @@
           <mxGeometry x="760" y="680" width="480" height="55" as="geometry" />
         </mxCell>
         <mxCell id="l_input" value="自然语言问句 + 数据库模式" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="185" y="770" width="430" height="70" as="geometry" />
+          <mxGeometry x="160" y="782" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="785" y="770" width="430" height="70" as="geometry" />
