@@ -16,7 +16,7 @@
         <mxCell id="right_header" value="QTCP-SQL (Ours)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#0b57d0;fillColor=#e7f0ff;fontSize=24;fontStyle=1;fontColor=#0b57d0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="760" y="680" width="480" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="l_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="l_input" value="自然语言问句 + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="185" y="770" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
