@@ -28,6 +28,9 @@
         <mxCell id="luYLaBB2n9x6easKonH3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;dashed=1;" edge="1" parent="1" source="l_source" target="luYLaBB2n9x6easKonH3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="luYLaBB2n9x6easKonH3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_source" target="l_llm">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l_source" value="&lt;font style=&quot;&quot;&gt;通用训练数据集（Spider-train）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="160" y="910" width="210" height="150" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
           <mxGeometry x="805" y="782" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="l_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1118" width="50" height="45" as="geometry" />
+          <mxGeometry x="320" y="1130.5" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="r_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="820" y="1118" width="50" height="45" as="geometry" />
