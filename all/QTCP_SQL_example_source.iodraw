@@ -44,7 +44,7 @@
           <mxGeometry x="1110" y="1670" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l_llm" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="252.5" y="1118" width="275" height="70" as="geometry" />
+          <mxGeometry x="252.5" y="1112" width="275" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r_llm" value="LLM generates SQL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="875" y="1775" width="430" height="70" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="895" y="1452" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="l_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1130.5" width="50" height="45" as="geometry" />
+          <mxGeometry x="300" y="1124.5" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="r_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="910" y="1788" width="50" height="45" as="geometry" />
