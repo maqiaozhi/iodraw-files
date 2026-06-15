@@ -64,7 +64,7 @@
         <mxCell id="r_robot" value="🤖" style="text;html=1;strokeColor=none;fillColor=none;fontSize=30;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="820" y="1118" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="e1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" source="l_input" target="l_source" edge="1">
+        <mxCell id="e1" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;strokeColor=#d6b656;fillColor=#fff2cc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l_input" target="l_source" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d93016;" parent="1" source="l_source" target="l_llm" edge="1">
