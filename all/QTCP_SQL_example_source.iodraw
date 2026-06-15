@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="left_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=3;strokeColor=#b46504;fillColor=#fad7ac;" parent="1" vertex="1">
-          <mxGeometry x="110" y="760" width="560" height="450" as="geometry" />
+          <mxGeometry x="110" y="760" width="560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="right_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;strokeColor=#0b57d0;fillColor=#f6f9ff;" parent="1" vertex="1">
           <mxGeometry x="830" y="1330" width="520" height="570" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="860" y="1860" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l_q" value="?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=28;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="60" y="680" width="45" height="45" as="geometry" />
+          <mxGeometry x="10" y="780" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="r_q" value="?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0b57d0;fillColor=#e7f0ff;fontSize=28;fontStyle=1;fontColor=#0b57d0;" parent="1" vertex="1">
           <mxGeometry x="895" y="1452" width="45" height="45" as="geometry" />
