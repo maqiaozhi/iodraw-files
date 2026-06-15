@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="left_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=3;strokeColor=#b46504;fillColor=#fad7ac;" parent="1" vertex="1">
-          <mxGeometry x="140" y="660" width="520" height="570" as="geometry" />
+          <mxGeometry x="140" y="740" width="520" height="490" as="geometry" />
         </mxCell>
         <mxCell id="right_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;strokeColor=#0b57d0;fillColor=#f6f9ff;" parent="1" vertex="1">
           <mxGeometry x="740" y="660" width="520" height="570" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="r_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="785" y="770" width="430" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l_source" value="General Training Dataset&lt;br&gt;&lt;font style=&#39;font-size:14px;color:#666666&#39;&gt;e.g., Spider-train&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d93016;fillColor=#fff1e5;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="l_source" value="&lt;font style=&quot;&quot;&gt;通用训练数据集（Spider-train）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d93016;fillColor=#fff1e5;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="185" y="910" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="r_source" value="Target-specific&lt;br&gt;Database Example Pool" style="shape=cylinder3d;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#0b57d0;fillColor=#e7f0ff;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
