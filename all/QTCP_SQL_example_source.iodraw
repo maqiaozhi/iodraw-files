@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" value="Core Difference in Few-shot Example Source" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="350" y="590" width="700" height="45" as="geometry" />
+          <mxGeometry x="330" y="510" width="700" height="45" as="geometry" />
         </mxCell>
         <mxCell id="left_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;strokeColor=#d93016;fillColor=#fff7f3;" parent="1" vertex="1">
           <mxGeometry x="140" y="660" width="520" height="570" as="geometry" />
