@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="QTCP-SQL-Figure" name="QTCP-SQL comparison">
-    <mxGraphModel dx="842" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="6000" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="6000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="left_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=3;strokeColor=#b46504;fillColor=#fad7ac;" parent="1" vertex="1">
-          <mxGeometry x="140" y="760" width="530" height="470" as="geometry" />
+          <mxGeometry x="140" y="760" width="530" height="450" as="geometry" />
         </mxCell>
         <mxCell id="right_panel" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;strokeColor=#0b57d0;fillColor=#f6f9ff;" parent="1" vertex="1">
           <mxGeometry x="740" y="660" width="520" height="570" as="geometry" />
