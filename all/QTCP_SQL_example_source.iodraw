@@ -22,7 +22,7 @@
         <mxCell id="r_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="785" y="770" width="430" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="luYLaBB2n9x6easKonH3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_source" target="luYLaBB2n9x6easKonH3-2">
+        <mxCell id="luYLaBB2n9x6easKonH3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="l_source" target="luYLaBB2n9x6easKonH3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_source" value="&lt;font style=&quot;&quot;&gt;通用训练数据集（Spider-train）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;strokeWidth=3;" parent="1" vertex="1">
