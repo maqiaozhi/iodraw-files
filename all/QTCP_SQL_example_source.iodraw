@@ -11,7 +11,7 @@
           <mxGeometry x="740" y="660" width="520" height="570" as="geometry" />
         </mxCell>
         <mxCell id="left_header" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;现有基于上下文学习的方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;labelBackgroundColor=none;textShadow=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="160" y="680" width="480" height="55" as="geometry" />
+          <mxGeometry x="180" y="510" width="480" height="55" as="geometry" />
         </mxCell>
         <mxCell id="right_header" value="QTCP-SQL (Ours)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#0b57d0;fillColor=#e7f0ff;fontSize=24;fontStyle=1;fontColor=#0b57d0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="760" y="680" width="480" height="55" as="geometry" />
