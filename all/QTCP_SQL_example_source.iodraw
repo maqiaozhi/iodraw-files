@@ -73,9 +73,6 @@
         <mxCell id="e4" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#0b57d0;" parent="1" source="r_source" target="r_llm" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d93016;" parent="1" source="l_source" target="l_ex1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e6" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d93016;" parent="1" source="l_source" target="l_ex2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
