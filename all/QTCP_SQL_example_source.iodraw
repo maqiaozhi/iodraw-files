@@ -52,9 +52,6 @@
         <mxCell id="r_note" value="Examples come from the target database" style="text;html=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;fontColor=#0b57d0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="770" y="1190" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="contrast" value="different&lt;br&gt;example&lt;br&gt;source" style="text;html=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#666666;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="665" y="915" width="70" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="l_q" value="?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d93016;fillColor=#ffe6dc;fontSize=28;fontStyle=1;fontColor=#d93016;" parent="1" vertex="1">
           <mxGeometry x="205" y="782" width="45" height="45" as="geometry" />
         </mxCell>
