@@ -22,6 +22,9 @@
         <mxCell id="r_input" value="NLQ + Target DB Schema" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="785" y="770" width="430" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="luYLaBB2n9x6easKonH3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_source" target="l_ex1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l_source" value="&lt;font style=&quot;&quot;&gt;通用训练数据集（Spider-train）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="185" y="910" width="210" height="150" as="geometry" />
         </mxCell>
@@ -29,10 +32,7 @@
           <mxGeometry x="785" y="900" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="l_ex1" value="&lt;b&gt;Example&lt;/b&gt;&lt;br&gt;Student / Course DB&lt;br&gt;&lt;font style=&#39;font-size:13px&#39;&gt;Find student names&lt;/font&gt;&lt;br&gt;&lt;font style=&#39;font-size:13px&#39;&gt;SELECT name FROM ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#d93016;fillColor=#ffffff;fontSize=15;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="450" y="860" width="190" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="l_ex2" value="&lt;b&gt;Example&lt;/b&gt;&lt;br&gt;...&lt;br&gt;&lt;font style=&#39;font-size:13px&#39;&gt;SELECT ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#d93016;fillColor=#ffffff;fontSize=15;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1000" width="190" height="70" as="geometry" />
+          <mxGeometry x="460" y="937.5" width="190" height="95" as="geometry" />
         </mxCell>
         <mxCell id="r_ex1" value="&lt;b&gt;Example&lt;/b&gt;&lt;br&gt;Customer / Orders DB&lt;br&gt;&lt;font style=&#39;font-size:13px&#39;&gt;Show customers with over 3 orders&lt;/font&gt;&lt;br&gt;&lt;font style=&#39;font-size:13px&#39;&gt;SELECT name FROM ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#0b57d0;fillColor=#ffffff;fontSize=15;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1020" y="885" width="190" height="95" as="geometry" />
@@ -71,9 +71,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e4" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#0b57d0;" parent="1" source="r_source" target="r_llm" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#d93016;" parent="1" source="l_source" target="l_ex2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e7" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#0b57d0;" parent="1" source="r_source" target="r_ex1" edge="1">
