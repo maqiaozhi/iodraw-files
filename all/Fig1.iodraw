@@ -26,7 +26,7 @@
           <mxGeometry x="42" y="130" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5ef;strokeColor=#333333;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="42" y="180" width="205" height="110" as="geometry" />
+          <mxGeometry x="42" y="180" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d9dce3;strokeColor=#333333;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="300" width="205" height="145" as="geometry" />
