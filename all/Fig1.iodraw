@@ -1117,11 +1117,11 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-156" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Times New Roman;" vertex="1" parent="AnaNl_z_ujhTGfVQCAZp-191">
           <mxGeometry x="188.71857142857152" y="8.263658536585382" width="10.463414634146343" height="10.463414634146343" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-192" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dfe3ea;strokeColor=#dfe3ea;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-192" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dfe3ea;strokeColor=#dfe3ea;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=3;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="265" width="383.86" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-193" value="Z(logits)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1370.5" y="269" width="55" height="20" as="geometry" />
+          <mxGeometry x="1360" y="269" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-194" value="×" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1419.26" y="323.75" width="18" height="30" as="geometry" />
