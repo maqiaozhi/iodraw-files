@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="VulFusion Framework">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="1"/>
+
+        <mxCell id="codet5" value="CodeT5&#xa;&#xa;Original Code + Perturbed Code&#xa;&#xa;Function / Parameter / Variable / Identifier Perturbation&#xa;&#xa;Transformer Encoder-Decoder&#xa;&#xa;Cross-Attention&#xa;&#xa;Output Difference Calculation&#xa;&#xa;Output Behavior Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="300" height="650" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bert" value="CodeBERT&#xa;&#xa;Transformer Layers&#xa;&#xa;Bidirectional Self-Attention Encoding&#xa;&#xa;Last-Layer Hidden Representations&#xa;&#xa;Global Semantic Aggregation&#xa;&#xa;Output Behavior Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="300" height="650" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="unix" value="UniXcoder&#xa;&#xa;Transformer Layers&#xa;&#xa;Self-Attention Mask&#xa;&#xa;Encoder-only / Decoder-only / Encoder-Decoder&#xa;&#xa;Masked Positions&#xa;&#xa;Last-Layer Hidden Representations&#xa;&#xa;Global Semantic Aggregation&#xa;&#xa;Output Behavior Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="300" height="650" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="fusion" value="Multi-Model Evidence Set" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="350" height="70" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" edge="1" parent="1" source="codet5" target="fusion"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="bert" target="fusion"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="unix" target="fusion"><mxGeometry relative="1" as="geometry"/></mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
