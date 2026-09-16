@@ -1031,7 +1031,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-153" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1371.142857142857" y="41.54853658536585" width="11.14285714285714" height="104.1109756097561" as="geometry" />
+          <mxGeometry x="1370" y="40" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-154" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1412.857142857143" y="172.29365853658538" width="10.463414634146343" height="10.463414634146343" as="geometry" />
