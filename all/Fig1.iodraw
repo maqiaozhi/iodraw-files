@@ -1364,6 +1364,9 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-105" target="AnaNl_z_ujhTGfVQCAZp-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-266" value="Confidence Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="443.14" y="254" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
