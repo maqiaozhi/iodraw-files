@@ -28,14 +28,6 @@
         <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="223.56" width="205" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="145" y="460" />
-              <mxPoint x="555" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="316.59000000000003" width="205" height="76" as="geometry" />
         </mxCell>
