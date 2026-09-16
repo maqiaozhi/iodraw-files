@@ -586,8 +586,8 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-201" value="&lt;b&gt;Confidence score of the tested code&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1419.14" y="399.65999999999997" width="201.86" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-202" value="&lt;font&gt;Integrated Analysis&lt;br&gt;Results&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;align=center;verticalAlign=middle;fontFamily=Times New Roman;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1758" y="204.75" width="120" height="52" as="geometry" />
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-202" value="&lt;font&gt;&lt;b&gt;Integrated Analysis&lt;br&gt;Results&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;align=center;verticalAlign=middle;fontFamily=Times New Roman;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="183.75" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-204" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1444.14" y="253.65999999999997" width="91" height="99.5" as="geometry" />
