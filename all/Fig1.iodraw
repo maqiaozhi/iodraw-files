@@ -25,7 +25,7 @@
         <mxCell id="7" value="Token Embeddings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7d1dd;strokeColor=#607080;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="130" width="205" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="180" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="12" value="✓    Non-Vulnerable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eff9ee;strokeColor=#65b86c;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="153" y="363.25" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#425466;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#425466;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="267.2" y="25" width="812.8" height="425" as="geometry" />
         </mxCell>
         <mxCell id="47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Keywords&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;rotation=-80;" parent="1" vertex="1">
