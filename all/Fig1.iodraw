@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="diagram1" name="Converted Diagram 1">
-    <mxGraphModel dx="740" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="939" pageHeight="631" math="1" shadow="0">
+    <mxGraphModel dx="904" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="939" pageHeight="631" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1361,11 +1361,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-105" target="AnaNl_z_ujhTGfVQCAZp-143">
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-105" target="AnaNl_z_ujhTGfVQCAZp-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-266" value="Confidence Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="1269.71" y="257.75" width="140" height="20" as="geometry" />
+          <mxGeometry x="1269" y="264" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
