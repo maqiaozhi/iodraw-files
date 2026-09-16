@@ -1136,7 +1136,7 @@
           <mxGeometry x="1419.14" y="399.65999999999997" width="201.86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-202" value="&lt;font&gt;Integrated Analysis&lt;br&gt;Results&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5e5e5;strokeColor=#333333;fontSize=12;align=center;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1826.75" y="344" width="120" height="52" as="geometry" />
+          <mxGeometry x="1758" y="204.75" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-204" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1444.14" y="253.65999999999997" width="91" height="99.5" as="geometry" />
@@ -1364,7 +1364,7 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-105" target="AnaNl_z_ujhTGfVQCAZp-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-266" value="Confidence Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;rotation=75;" vertex="1" parent="1">
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-266" value="&lt;b&gt;Confidence Score&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;rotation=75;" vertex="1" parent="1">
           <mxGeometry x="1269" y="264" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
