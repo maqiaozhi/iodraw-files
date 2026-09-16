@@ -13,10 +13,10 @@
         <mxCell id="3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Training Set&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#000000;fontSize=10;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="47" y="35" width="58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Similar Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4eadf;strokeColor=#000000;fontSize=10;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="115.5" y="35" width="58" height="30" as="geometry" />
+        <mxCell id="4" value="&lt;b&gt;Similar Code&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4eadf;strokeColor=#000000;fontSize=10;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="115.5" y="35" width="64.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Test Set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9efcf;strokeColor=#000000;fontSize=10;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="5" value="&lt;b&gt;Test Set&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9efcf;strokeColor=#000000;fontSize=10;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="181" y="35" width="58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Position Embeddings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5bf;strokeColor=#607080;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
