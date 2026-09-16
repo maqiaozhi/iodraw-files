@@ -28,7 +28,7 @@
         <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="180" width="205" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d9dce3;strokeColor=#333333;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="264" width="205" height="76" as="geometry" />
         </mxCell>
         <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7db;strokeColor=#e6b84d;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
