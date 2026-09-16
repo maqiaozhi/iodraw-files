@@ -1348,9 +1348,6 @@
             <mxPoint x="1540.8538223938224" y="339.1763414634146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-155" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1553.0142857142857" y="187.7359912732155" width="9.263481763258001" height="9.263481763258001" as="geometry" />
-        </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-156" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1683.5185714285717" y="165.4159912732155" width="9.263481763258001" height="9.263481763258001" as="geometry" />
         </mxCell>
@@ -1359,6 +1356,9 @@
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-154" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1370.507142857143" y="166.99599127321548" width="9.263481763258001" height="9.263481763258001" as="geometry" />
+        </mxCell>
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-155" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1412.7342857142858" y="166.99599127321548" width="9.263481763258001" height="9.263481763258001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
