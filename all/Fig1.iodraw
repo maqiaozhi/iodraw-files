@@ -1124,7 +1124,7 @@
           <mxGeometry x="1366.14" y="411.5" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-200" value="Fit &lt;i&gt;T*&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=11;align=center;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1473.3600000000001" y="414" width="70.5" height="28" as="geometry" />
+          <mxGeometry x="1442.0000000000002" y="411.5" width="70.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-201" value="Confidence score of the tested code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1442" y="450" width="201.86" height="20" as="geometry" />
@@ -1327,7 +1327,7 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-246" value="&lt;div&gt;Diag(1/T)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1434" y="269" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-247" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;arcSize=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-199" target="AnaNl_z_ujhTGfVQCAZp-200">
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-247" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;arcSize=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.595;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="AnaNl_z_ujhTGfVQCAZp-199" target="AnaNl_z_ujhTGfVQCAZp-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1395.8600000000001" y="461" as="sourcePoint" />
             <mxPoint x="1445.8600000000001" y="411" as="targetPoint" />
