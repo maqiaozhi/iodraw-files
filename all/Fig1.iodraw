@@ -25,7 +25,7 @@
         <mxCell id="7" value="Token Embeddings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7d1dd;strokeColor=#607080;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="156.56" width="205" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#82b366;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="8" value="Evidence Extraction Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="42" y="223.56" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="LLM Reasoning &amp;amp;&lt;br&gt;&amp;nbsp;Re-Reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
