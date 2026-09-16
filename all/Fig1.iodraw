@@ -1085,7 +1085,7 @@
           <mxGeometry x="1488.984555984556" y="48.34853658536585" width="11.029004614370502" height="90.50853658536585" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-168" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontFamily=Times New Roman;" vertex="1" parent="AnaNl_z_ujhTGfVQCAZp-167">
-          <mxGeometry width="10.463414634146343" height="10.463414634146343" as="geometry" />
+          <mxGeometry y="-9" width="10.463414634146343" height="10.463414634146343" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-169" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Times New Roman;" vertex="1" parent="AnaNl_z_ujhTGfVQCAZp-167">
           <mxGeometry y="80.0451219512195" width="10.463414634146343" height="10.463414634146343" as="geometry" />
