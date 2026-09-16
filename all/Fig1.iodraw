@@ -35,10 +35,10 @@
           <mxGeometry x="42" y="355.75" width="205" height="35" as="geometry" />
         </mxCell>
         <mxCell id="11" value="✕    Vulnerable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff8f8;strokeColor=#e45b5b;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="52" y="462" width="90" height="20" as="geometry" />
+          <mxGeometry x="51" y="363.25" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="12" value="✓    Non-Vulnerable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eff9ee;strokeColor=#65b86c;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="154" y="462" width="85" height="20" as="geometry" />
+          <mxGeometry x="153" y="363.25" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9fafb;strokeColor=#425466;fontSize=14;align=center;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="267.2" y="25" width="752.8" height="465" as="geometry" />
@@ -822,19 +822,6 @@
         </mxCell>
         <mxCell id="Avv_tBvgYkSbqQR8pt7S-280" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;gradientColor=none;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.laptop;network2IconW=1;network2IconH=0.5734;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=2;" parent="Avv_tBvgYkSbqQR8pt7S-281" vertex="1">
           <mxGeometry x="40.20999999999992" y="2" width="24.989783110290773" height="14.33151361329029" as="geometry" />
-        </mxCell>
-        <mxCell id="Avv_tBvgYkSbqQR8pt7S-285" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;arcSize=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="372.5" as="sourcePoint" />
-            <mxPoint x="256" y="501" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="256" y="372" />
-              <mxPoint x="256" y="501" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8" target="17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
