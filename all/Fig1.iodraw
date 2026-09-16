@@ -1123,7 +1123,7 @@
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-199" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Validation set&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=9;align=center;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1377" y="414" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="AnaNl_z_ujhTGfVQCAZp-200" value="Fit &lt;i&gt;T*&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dfe3ea;strokeColor=none;fontSize=11;align=center;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="AnaNl_z_ujhTGfVQCAZp-200" value="Fit &lt;i&gt;T*&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=11;align=center;verticalAlign=middle;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1473.3600000000001" y="414" width="70.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AnaNl_z_ujhTGfVQCAZp-201" value="Confidence score of the tested code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
